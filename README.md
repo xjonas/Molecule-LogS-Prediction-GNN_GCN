@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This work presents a comprehensive implementation of Graph Convolutional Networks (GCNs) for predicting aqueous solubility (logS) of small molecules using the ESOL dataset. The approach achieves strong predictive performance (RÂ² = 0.859, RMSE = 0.445) through a three-layer GCN architecture with batch normalization and dropout regularization. Chemical analysis reveals systematic model biases toward larger molecules and provides insights into the relationship between molecular descriptors and prediction accuracy.
+This work presents a comprehensive implementation of Graph Convolutional Networks (GCNs) for predicting aqueous solubility (logS) of small molecules using the ESOL dataset. The approach achieves strong predictive performance (R² = 0.859, RMSE = 0.445) through a three-layer GCN architecture with batch normalization and dropout regularization. Chemical analysis reveals systematic model biases toward larger molecules and provides insights into the relationship between molecular descriptors and prediction accuracy.
 
 ## 1. Introduction and Background
 
@@ -22,7 +22,7 @@ The implementation begins with comprehensive data validation and molecular graph
 - Atomic number
 - Degree (number of bonded neighbors)
 - Formal charge
-- Hybridization state (SP, SPÂ², SPÂ³, etc.)
+- Hybridization state (SP, SP², SP³, etc.)
 - Aromaticity (binary)
 - Atomic mass
 - Ring membership (binary)
