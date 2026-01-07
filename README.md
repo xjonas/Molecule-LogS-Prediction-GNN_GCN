@@ -142,7 +142,7 @@ Compared to recent work by Ahmad et al. and Ulrich et al., this approach achieve
 
 3. Ahmad, W., Tayara, H., & Chong, K. T. (2023). Attention-Based Graph Neural Network for Molecular Solubility Prediction. *ACS Omega*, 8(4), 3236-3244.
 
-4. Ulrich, N., Voigt, K., Kudria, A., BÃ¶hme, A., & Ebert, R. U. (2025). Prediction of the water solubility by a graph convolutional-based neural network on a highly curated dataset. *Journal of Cheminformatics*, 17, 55.
+4. Ulrich, N., Voigt, K., Kudria, A., Bähme, A., & Ebert, R. U. (2025). Prediction of the water solubility by a graph convolutional-based neural network on a highly curated dataset. *Journal of Cheminformatics*, 17, 55.
 
 ## Code Availability
 
